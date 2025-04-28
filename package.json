@@ -1,0 +1,20 @@
+{
+  "name": "tiendalaptopkl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guadalupe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lupitha24/Proyecto-Pagina-Web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lupitha24/Proyecto-Pagina-Web/issues"
+  },
+  "homepage": "https://github.com/Lupitha24/Proyecto-Pagina-Web#readme",
+  "description": ""
+}
